@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @abdimuratov
-- 👀 I’m interested in job for juniors on React.js
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in job for juniors on Vue.js
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: abdimuratov8@gmail.com
-- This is my recent react.js project: https://github.com/abdimuratov/social-app
+- 📫 How to reach me: abdimuratov8@gmail.
 
 <!---
 abdimuratov/abdimuratov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
