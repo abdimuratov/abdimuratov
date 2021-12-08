@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdimuratov
 - 👀 I’m interested in job for juniors on Vue.js
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently working in KaspiNet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: abdimuratov8@gmail.
 
